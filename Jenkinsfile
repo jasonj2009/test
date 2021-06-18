@@ -1,7 +1,7 @@
 pipeline{
     agent any
     stages{
-        stage('Test Ubuntu'){
+        stage('Test Ubuntu2'){
             steps{
                 echo "Test Ubuntu"
                 sleep 10
